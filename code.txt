@@ -1,0 +1,9 @@
+int main (void)
+{
+int x = 1;
+while(x < 20){
+printf ("hochy tri za praktiku<3\n");
+x = x +5;
+}
+return 0;
+}
